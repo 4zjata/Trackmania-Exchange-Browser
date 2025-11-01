@@ -141,7 +141,6 @@ Or use Settings tab in the application with file browse dialogs.
 | Maps won't download | Check internet connection, verify API URL in config.ini |
 | Hotkey not working | Ensure keyboard module has admin rights on Windows |
 | SSL errors | Set `verify_ssl = false` in config.ini (not recommended) |
-| Old favorites not loading | App auto-migrates old format on first run |
 
 ## 📝 License
 
